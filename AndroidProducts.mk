@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_enchilada.mk
+    $(LOCAL_DIR)/tipsy_enchilada.mk
 
 COMMON_LUNCH_CHOICES := \
-    carbon_enchilada-user \
-    carbon_enchilada-userdebug \
-    carbon_enchilada-eng
+    tipsy_enchilada-user \
+    tipsy_enchilada-userdebug \
+    tipsy_enchilada-eng
